@@ -1,17 +1,17 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Dopamines&fontSize=90&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Dogpamines&fontSize=90&fontColor=333333)
 
 
   
   <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+We+are+Dopamines;We+are+Best+Team" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+We+are+Dogpamines;We+are+Best+Team" alt="Typing SVG" /></a>
 <div align="center">  
-  <h4>"Dopamines"</h4>
+  <h4>"Dogpamines"</h4>
 </div>
 
 <div align="center">  
-  <img src="https://github.com/Team-Dopamines/.github/assets/134928447/fa38787c-1766-460b-952f-2e7001350590">  
+  <img src="https://github.com/Dogpamines/.github/assets/134928447/49d8b168-211d-4bb4-9904-eae2518cded3">  
 </div>
 <br>
 <div align="center">
