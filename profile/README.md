@@ -9,10 +9,15 @@
 <div align="center">  
   <h4>"Dogpamines"</h4>
 </div>
-
-<div align="center">  
-  <img src="https://github.com/Dogpamines/.github/assets/134928447/49d8b168-211d-4bb4-9904-eae2518cded3">  
+<div>
+  <a href="https://github.com/Dogpamines/DogSeek.wiki.git">DogSeek-Wiki</a>
 </div>
+<br>
+<br>
+<div align="center">    
+  <img style="width:500px" src="https://github.com/user-attachments/assets/53b48791-75b6-408f-92c0-3272864bc523">
+</div>
+<br>
 <br>
 <div align="center">
   <table>
@@ -32,6 +37,7 @@
   </table>
 </div>
 
+<br>
 <br>
 <br>
 <!-- Footer banner -->
