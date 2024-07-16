@@ -10,7 +10,7 @@
   <h4>"Dogpamines"</h4>
 </div>
 <div>
-  <a href="https://github.com/Dogpamines/DogSeek.wiki.git">DogSeek-Wiki</a>
+  <a href="https://github.com/Dogpamines/DogSeek/wiki">DogSeek-Wiki</a>
 </div>
 <br>
 <br>
